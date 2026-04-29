@@ -45,10 +45,6 @@ Weight = 70 kg
 Output:
 Predicted Height ≈ 170 cm
 
-## 📷 Output Visualization
-
-(Add your graph screenshot here)
-
 ## 🔥 Future Improvements
 
 * Use larger dataset
@@ -57,5 +53,5 @@ Predicted Height ≈ 170 cm
 
 ## 👨‍💻 Author
 
-Your Name
+Dipak kumar
 
